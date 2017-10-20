@@ -9,4 +9,6 @@ ennnnnnmmmmmmmm#
 #	新文件：   readme.txt
 #
 It's an experiment when i was learning Git.
-emmmmmmm what happened
+emmmmmmm what happene d
+gou li guo jia sheng si yi
+qi yin huo fu bi qu zhi
