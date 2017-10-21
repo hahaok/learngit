@@ -5,7 +5,7 @@
 #
 # 初始提交
 ennnnnnmmmmmmmm#
-# 要提交的变更：
+# 要提交的变更：wozenmehuizhiodao
 #	新文件：   readme.txt
 #
 It's an experiment when i was learning Git.
@@ -13,3 +13,7 @@ emmmmmmm what happene d
 gou li guo jia sheng si yi
 qi yin huo fu bi qu zhi
 pie jian li ren d xi bei shuangxue
+
+ni men a , bu yao zheng tian jiu xi huan a gao ge da xin wen shuo shen me xian zai jiu yi jing qin ding le jiu ba wo pi pan yi fan 
+
+ni men a  naive
